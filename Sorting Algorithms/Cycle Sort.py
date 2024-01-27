@@ -29,3 +29,16 @@ def cycle_sort(arr):
             writes += 1
 
     return writes
+
+# Example usage
+examples = [
+    [1, 8, 3, 9, 10, 10, 2, 4 ],
+    [10, 3, 5, 1, 2, 8, 7, 6],
+    [5, 1, 4, 2, 8, 9, 3],
+    [20, 40, 50, 10, 30, 20, 60],
+    [1, 2, 3, 4, 5, 6]
+]
+
+for example in examples:
+    cycle_sort(example)
+    print(f"Sorted array: {example}")
