@@ -1,4 +1,4 @@
-# Repository Name
+# Python Algorithms
 
 ## About
 This repository contains a collection of diverse Python algorithms designed to be easily integrated into various coding projects. The algorithms cover a range of functionalities, from data processing and analysis to more complex computational tasks.
@@ -14,6 +14,7 @@ from algorithm_file import desired_function
 
 # Use the function in your code
 result = desired_function(input_parameters)
+```
 
-Contributing
+## Contributing
 Contributions to this repository are welcome! If you have an algorithm to add or an improvement to an existing one, feel free to fork the repository, make your changes, and submit a pull request.
